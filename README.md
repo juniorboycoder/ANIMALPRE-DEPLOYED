@@ -11,9 +11,7 @@ It is an app for animal lovers.
 
 PYTHON3 DJANGO,
 
-JAVASCRIPT,JQUERY
-
-BOOTSTRAP 4, HTML CSS
+JAVASCRIPT,JQUERY, BOOTSTRAP4, HTML CSS
 
 #LIBRARIES FOR MACHINE LEARNING:
 
@@ -32,3 +30,4 @@ boto3
 
 ##LIBRARY FOR BUILDING API
 REST APIS
+Check the requirments.txt file for more dependencies

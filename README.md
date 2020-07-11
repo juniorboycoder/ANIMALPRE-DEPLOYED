@@ -22,12 +22,10 @@ PANDAS,
 NUMPY,
 
 ##LIBRARIES FOR DEPLOYMENTS
-HEROKU,
-
-AWS S3,
-
-boto3
+HEROKU,AWS S3,boto3
 
 ##LIBRARY FOR BUILDING API
+
 REST APIS
+
 Check the requirments.txt file for more dependencies

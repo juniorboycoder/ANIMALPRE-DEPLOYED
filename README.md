@@ -1,4 +1,4 @@
-# ANIMALPRED-DEPLOYED
+# ANIMALPRE-DEPLOYED
 Animalpred Web app predicts an animal class using Machine Learning, and other added functionalities.
 
 #DEPENDENCIES:

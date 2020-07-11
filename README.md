@@ -1,10 +1,10 @@
 # ANIMALPRE-DEPLOYED
 
-Animalpre webapp demonstrates power of a simple Machine model, and django RESTAPIs , Queries and much more
+Animalpre webapp demonstrates power of a simple Logistic Regression Machine model, and django RESTAPIs , Queries and much more
 
 Animalpre Web app predicts an animal class using Machine Learning, and other added functionalities like storing prediction in api , and providing signedup users with latest animal news, and some upcoming features
 
-It is app for animal lovers
+It is an app for animal lovers.
 
 #DEVELOPED WITH:
 
@@ -26,6 +26,8 @@ NUMPY,
 HEROKU,
 
 AWS S3,
+
+boto3
 
 ##LIBRARY FOR BUILDING API
 REST APIS

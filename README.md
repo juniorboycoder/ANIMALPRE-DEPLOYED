@@ -1,4 +1,5 @@
 # ANIMALPRE-DEPLOYED
+Link: https://animalpred.herokuapp.com/animalpre/
 
 Animalpre webapp demonstrates power of a simple Logistic Regression Machine model, and django RESTAPIs , Queries and much more
 

@@ -1,0 +1,1 @@
+web: gunicorn animalpredict.wsgi

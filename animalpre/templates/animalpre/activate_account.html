@@ -1,0 +1,6 @@
+{% autoescape off %}
+Hi {{ user.username }},
+Please click on the link to confirm your registration,
+https://animalpred.herokuapp.com{% url 'animalpre:activate' uidb64=uid token=token %}
+{% endautoescape %}
+
